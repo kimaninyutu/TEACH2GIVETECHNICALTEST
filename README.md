@@ -20,3 +20,5 @@ This repository contains solutions to six programming challenges, implemented in
 
 Each solution is provided in **both Python and JavaScript**. The files are organized as follows:
 
+technical-test-solutions/ │── js/ # JavaScript solutions │ ├── fizzbuzz.js │ ├── fibonacci.js │ ├── power_of_two.js │ ├── capitalize_words.js │ ├── reverse_integer.js │ └── count_vowels.js │ │── python/ # Python solutions │ ├── fizzbuzz.py │ ├── fibonacci.py │ ├── power_of_two.py │ ├── capitalize_words.py │ ├── reverse_integer.py │ └── count_vowels.py │ └── README.md # Documentation
+
